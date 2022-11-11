@@ -44,7 +44,13 @@
     width: 75px;
     height: auto;
     margin: 0 0 10px;
+    cursor: pointer;
 }
+
+.hamburger {
+    display: none;
+}
+
 @media screen and (max-width: 1240px) {
     .hamburger {
         display: block;

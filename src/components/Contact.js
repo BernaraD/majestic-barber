@@ -3,7 +3,8 @@ import './Contact.css';
 function Contact () {
     return (
             <div className='contact'>
-                <form method='POST' action="https://getform.io/f/e2e6a2db-b9d8-486b-9e78-e2b173f9b80b">
+                <form method='POST'
+                      action="https://getform.io/f/ff3b7f0c-bb9f-4204-813a-ebd44563b8ff">
 
                     <h1>Lets be in touch</h1>
                     <label>Your Name</label>
@@ -19,6 +20,6 @@ function Contact () {
             </div>
 
     );
-};
+}
 
 export default Contact;
