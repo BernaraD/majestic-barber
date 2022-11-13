@@ -30,3 +30,7 @@
 .footer ul li a:hover {
     color: #EB6440;
 }
+
+.footer ul li a:active {
+    color: #EB6440;
+}
