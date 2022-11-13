@@ -13,7 +13,7 @@ function Hero() {
 
                 <h1>Majestic Barber Shop</h1>
                 <div className='hero-button'>
-                    <Link to='https://booksy.com/widget/code.js?id=871647&country=us&lang=en'
+                    <Link to="https://booksy.com/widget/code.js?id=871647&country=us&lang=en"
                           className='button'>Make an appointment</Link>
                 </div>
 
