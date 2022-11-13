@@ -1,0 +1,32 @@
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #c38e39;
+    height: 30%;
+    color: white;
+    text-align: center;
+    z-index: 10;
+    padding: 10px;
+}
+
+.footer ul {
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.footer li {
+    margin: 5px;
+    align-items: center;
+    color: #FFFFFF
+}
+
+.footer ul li a:visited {
+    color: #ffffff;
+}
+
+.footer ul li a:hover {
+    color: #EB6440;
+}
